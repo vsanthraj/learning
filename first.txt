@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this first file by vasanthraj vasanthrajdfd
 this hte second file 
+=======
+this first file by VASANTHRAJ
+this hte second file 
+>>>>>>> 8d2f913d37f03111449cf47008bfb9d1f39ec757
